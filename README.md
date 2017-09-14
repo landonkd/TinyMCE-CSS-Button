@@ -3,7 +3,7 @@ This is a WP plugin to insert a CSS button into a page or post via a new button 
 
 `<span class="btn">Your text here</span>` will be inserted around your higlighted text. This plugin does not include styling for the `.btn` class, so you will need to take care of that yourself. 
 
-You could also easily adapt this plugin to insert any CSS class, `<span></span>`, `<div></div>`, or element.
+You could also easily adapt this plugin to insert any CSS class, `<span>`, `<div>`, or element.
 
 ## Instructions
 1. Download the `TinyMCE-CSS-Button folder` , Zip it, and upload it as a plugin to your WordPress site.
