@@ -1,6 +1,8 @@
 # TinyMCE-CSS-Button
 This is a WP plugin to insert a CSS button into a page or post via a new button in the WYSIWYG.
 
+You could also easily adapt this plugin to insert any CSS class, `<span>`, `<div>`, or element around a section of highlighted text.
+
 ## Instructions
 1. Download the `TinyMCE-CSS-Button folder` , Zip it, and upload it as a plugin to your WordPress site.
 2. Activate the plugin.
